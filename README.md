@@ -8,6 +8,6 @@ Les packages `requests`, `smtplib`, `threading` (les 2 derniers sont installés 
 
 ## Usage
 Entrer vos identifiants école et gmail dans les champs correspondants  
-Autoriser Python à envoyer des mails: https://support.google.com/accounts/answer/6010255
+Autoriser Python à envoyer des mails: https://support.google.com/accounts/answer/6010255  
 Lancer le script
 
